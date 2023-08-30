@@ -1,0 +1,2 @@
+# MisterQuote
+Quote generating project
